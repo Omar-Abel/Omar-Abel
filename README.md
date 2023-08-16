@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Omar Lora's profile!</h1>
 <h3 align="center">Just a Backend Software Developer 💻</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **C#, BackEnd**
 
